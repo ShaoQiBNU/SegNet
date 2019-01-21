@@ -1,4 +1,4 @@
-SepNet详解
+SegNet详解
 =========
 
 
@@ -27,9 +27,11 @@ https://github.com/alexgkendall/caffe-segnet
 https://github.com/alexgkendall/SegNet-Tutorial
 
 
-https://github.com/mathildor/TF-SegNet
-
-
 https://github.com/tkuanlun350/Tensorflow-SegNet
 
 
+## 扩展的AirNet
+
+https://geoit.geoforum.no/2017/12/20/maskinlaering-flyfoto/
+
+https://github.com/mathildor/TF-SegNet
